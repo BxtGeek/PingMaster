@@ -1,0 +1,4 @@
+google.com
+microsoft.com
+dell.com
+facebook.com
